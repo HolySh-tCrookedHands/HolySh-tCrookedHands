@@ -1,7 +1,7 @@
 # 🏢 HolySh-tCrookedHands Inc.
 
 **Официальный GitHub организации**  
-*"Кодим криво, но с душой (и пивом)!"* 🍻
+*"Кодим криво, но с душой"* 
 
 ---
 
@@ -23,13 +23,6 @@
 <br>
 Главный по пиву
 </td>
-<td align="center">
-<img src="https://github.com/HolySh-tCrookedHands/non_alcoholic_beer/blob/main/avatar2.jpg" width="100" alt="Участник 2">
-<br>
-<strong>Дизайнер</strong>
-<br>
-Мастер кнопок
-</td>
 </tr>
 </table>
 
@@ -48,7 +41,19 @@
 <tr>
 <td align="center">
 <a href="https://github.com/TnSiRt">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TnSiRt&theme=blue_navy" alt="Статистика TnSiRt">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TnSiRt&theme=gotham" alt="Статистика TnSiRt">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/TnSiRt">
+<img src="https://github-readme-stats.vercel.app/api?username=TnSiRt&show_icons=true&theme=catppuccin_mocha" alt="Статистика TnSiRt">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/username2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username2&theme=radical" alt="Статистика 2">
 </a>
 </td>
 <td align="center">
@@ -60,7 +65,19 @@
 <tr>
 <td align="center">
 <a href="https://github.com/username3">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username3&theme=radical" alt="Статистика 3">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/username3">
 <img src="https://github-readme-stats.vercel.app/api?username=username3&show_icons=true&theme=radical" alt="Статистика 3">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/username4">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username4&theme=radical" alt="Статистика 4">
 </a>
 </td>
 <td align="center">
@@ -76,7 +93,9 @@
 ## 📞 Контакты (для серьёзных людей)
 
 **Официальный сайт:** [https://hs-ch.com](https://hs-ch.com) *(скоро будет!)*  
-**Email:** business@hs-ch.com  
-**Телефон:** +7 (800) 123-45-67
+**Email:** internetorethernet12@gmail.com  
+**Телефон:** +7 (952) 492 84 90
 
 ---
+
+<div align="center"><p><strong>© 2025 HolySh-tCrookedHands Inc.</strong></p></div>
