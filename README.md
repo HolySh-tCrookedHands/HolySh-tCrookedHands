@@ -7,35 +7,44 @@
 
 ## 👥 Наша команда
 
-<table>
+
+<table width="100%">
+<tr>
+<td align="center" colspan="3">
+  <img src="https://github.com/HolySh-tCrookedHands.png" width="100" alt="Лого">
+  <br>
+  <strong>HolySh-tCrookedHands</strong>
+  <br>
+  4 криворуких гения
+</td>
+</tr>
 <tr>
 <td align="center">
-<img src="https://github.com/HolySh-tCrookedHands.png" width="100" alt="Лого">
-<br>
-<strong>HolySh-tCrookedHands</strong>
-<br>
-4 криворуких гения
+  <a href='https://github.com/TnSiRt'>
+    <img src="https://github.com/TnSiRt.png" width="100" alt="Участник 1">
+  </a>
+  <br>
+  <strong>Основатель</strong>
+  <br>
+  Главный по пиву
 </td>
 <td align="center">
-<a href='https://github.com/TnSiRt'><img src="https://github.com/TnSiRt.png" width="100" alt="Участник 1"></a>
-<br>
-<strong>Основатель</strong>
-<br>
-Главный по пиву
+  <a href='https://github.com/VendettaQQ'>
+    <img src="https://github.com/VendettaQQ.png" width="100" alt="Участник 2">
+  </a>
+  <br>
+  <strong>Визуальшик<br>продован</strong>
+  <br>
+  Главный по <br>рекламе и визуалу
 </td>
 <td align="center">
-<a href='https://github.com/VendettaQQ'><img src="https://github.com/VendettaQQ.png" width="100" alt="Участник 2"></a>
-<br>
-<strong>Визуальшик<br>продован</strong>
-<br>
-Главный по <br>рекламе и визуалу
-</td>
-<td align="center">
-<a href='https://github.com/Mercenary0407'><img src="https://github.com/Mercenary0407.png" width="100" alt="Участник 2"></a>
-<br>
-<strong>Тестировшик<br>подмастерье</strong>
-<br>
-Наш тестировашик, а так же<br>подмастерье Основателя
+  <a href='https://github.com/Mercenary0407'>
+    <img src="https://github.com/Mercenary0407.png" width="100" alt="Участник 3">
+  </a>
+  <br>
+  <strong>Тестировшик<br>подмастерье</strong>
+  <br>
+  Наш тестировашик, а так же<br>подмастерье Основателя
 </td>
 </tr>
 </table>
