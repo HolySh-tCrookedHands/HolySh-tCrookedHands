@@ -6,11 +6,9 @@
 ---
 
 ## 👥 Наша команда
-
-
 <table width="100%">
 <tr>
-<td align="center" colspan="4">
+<td align="center" colspan="2">
   <img src="https://github.com/HolySh-tCrookedHands.png" width="100" alt="Лого">
   <br>
   <strong>HolySh-tCrookedHands</strong>
@@ -18,49 +16,70 @@
   4 криворуких гения
 </td>
 </tr>
+
+<!-- Основатель -->
 <tr>
-<td align="center">
-  <a href='https://github.com/TnSiRt'>
-    <img src="https://github.com/TnSiRt.png" width="100" alt="Участник 1">
-  </a>
-  <br>
-  <strong>Основатель</strong>
-  <br>
+<td valign="top" align="left" width="70%">
+  <strong>Основатель</strong><br>
   Главный по пиву
 </td>
-<td align="center">
-  <a href='https://github.com/VendettaQQ'>
-    <img src="https://github.com/VendettaQQ.png" width="100" alt="Участник 2">
+<td valign="top" align="center" width="30%">
+  <a href='https://github.com/TnSiRt'>
+    <img src="https://github.com/TnSiRt.png" width="120" alt="Основатель">
   </a>
-  <br>
-  <strong>Визуальшик продован</strong>
-  <br>
-  Главный по <br>рекламе и визуалу<br>
-  <q>Если и продавать то по злому и без улыбки</q>
 </td>
 </tr>
+
+<!-- Vendetta -->
 <tr>
-<td align="center">
-  <a href='https://github.com/Mercenary0407'>
-    <img src="https://github.com/Mercenary0407.png" width="100" alt="Участник 3">
-  </a>
-  <br>
-  <strong>Тестировшик подмастерье</strong>
-  <br>
-  Наш тестировашик, а так же<br>подмастерье Основателя
+<td valign="top" align="left" width="70%">
+  <strong>Визуальшик продован</strong><br>
+  Главный по рекламе и визуалу<br><br>
+  <q>Если и продавать, то по злому и без улыбки</q><br>
+  — VendettaQQ
 </td>
-<td align="center">
-  <a href='https://github.com/DeadMakc'>
-    <img src="https://github.com/DeadMakc.png" width="100" alt="Участник 3">
+<td valign="top" align="center" width="30%">
+  <a href='https://github.com/VendettaQQ'>
+    <img src="https://github.com/VendettaQQ.png" width="120" alt="Визуальшик">
   </a>
-  <br>
-  <strong>Непревзайденный мастер<br>своего дела</strong>
-  <br>
-  Глава Гуррен-дана, известной банды деревни Дзиха!<br>Символ мужского начала!<br>Демон подземного мира и окрестностей!<br>Или просто DeadMakc, собственной персоной!
-  <img src='' alt='стикер'>
 </td>
 </tr>
+
+<!-- Mercenary -->
+<tr>
+<td valign="top" align="left" width="70%">
+  <strong>Тестировшик подмастерье</strong><br>
+  Наш тестировашик, а так же подмастерье Основателя
+</td>
+<td valign="top" align="center" width="30%">
+  <a href='https://github.com/Mercenary0407'>
+    <img src="https://github.com/Mercenary0407.png" width="120" alt="Тестировшик">
+  </a>
+</td>
+</tr>
+
+<!-- DeadMakc -->
+<tr>
+<td valign="top" align="left" width="70%">
+  <strong>Непревзайденный мастер своего дела</strong><br>
+  Глава Гуррен-дана, известной банды деревни Дзиха!<br>
+  Символ мужского начала!<br>
+  Демон подземного мира и окрестностей!<br>
+  Или просто DeadMakc, собственной персоной!
+  <br><br>
+  <img src='https://github.com/HolySh-tCrookedHands/HolySh-tCrookedHands/blob/main/sticker.webp' 
+       alt='стикер' width='150px'>
+</td>
+<td valign="top" align="center" width="30%">
+  <a href='https://github.com/DeadMakc'>
+    <img src="https://github.com/DeadMakc.png" width="120" alt="DeadMakc">
+  </a>
+</td>
+</tr>
+
 </table>
+
+
 
 ---
 
