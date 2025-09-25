@@ -12,16 +12,30 @@
 <td align="center">
 <img src="https://github.com/HolySh-tCrookedHands.png" width="100" alt="Лого">
 <br>
-<strong>Команда</strong>
+<strong>HolySh-tCrookedHands</strong>
 <br>
 4 криворуких гения
 </td>
 <td align="center">
-<img src="https://github.com/TnSiRt.png" width="100" alt="Участник 1">
+<a href='https://github.com/TnSiRt'><img src="https://github.com/TnSiRt.png" width="100" alt="Участник 1"></a>
 <br>
 <strong>Основатель</strong>
 <br>
 Главный по пиву
+</td>
+<td align="center">
+<a href='https://github.com/VendettaQQ'><img src="https://github.com/VendettaQQ.png" width="100" alt="Участник 2"></a>
+<br>
+<strong>Визуальшик<br>продован</strong>
+<br>
+Главный по <br>рекламе и визуалу
+</td>
+<td align="center">
+<a href='https://github.com/Mercenary0407'><img src="https://github.com/Mercenary0407.png" width="100" alt="Участник 2"></a>
+<br>
+<strong>Тестировшик<br>подмастерье</strong>
+<br>
+Наш тестировашик, а так же<br>подмастерье Основателя
 </td>
 </tr>
 </table>
@@ -52,37 +66,25 @@
 </tr>
 <tr>
 <td align="center">
-<a href="https://github.com/username2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username2&theme=radical" alt="Статистика 2">
+<a href="https://github.com/VendettaQQ">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VendettaQQ&theme=vue" alt="Статистика 2">
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/username2">
-<img src="https://github-readme-stats.vercel.app/api?username=username2&show_icons=true&theme=radical" alt="Статистика 2">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/username3">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username3&theme=radical" alt="Статистика 3">
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/username3">
-<img src="https://github-readme-stats.vercel.app/api?username=username3&show_icons=true&theme=radical" alt="Статистика 3">
+<a href="https://github.com/VendettaQQ">
+<img src="https://github-readme-stats.vercel.app/api?username=VendettaQQ&show_icons=true&theme=vue" alt="Статистика 2">
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
-<a href="https://github.com/username4">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username4&theme=radical" alt="Статистика 4">
+<a href="https://github.com/Mercenary0407">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mercenary0407&theme=nord_dark" alt="Статистика 3">
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/username4">
-<img src="https://github-readme-stats.vercel.app/api?username=username4&show_icons=true&theme=radical" alt="Статистика 4">
+<a href="https://github.com/Mercenary0407">
+<img src="https://github-readme-stats.vercel.app/api?username=Mercenary0407&show_icons=true&theme=nord_dark" alt="Статистика 3">
 </a>
 </td>
 </tr>
