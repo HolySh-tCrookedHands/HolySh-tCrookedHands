@@ -19,13 +19,13 @@
 
 <!-- Основатель -->
 <tr>
-<td valign="top" align="left" width="70%">
+<td valign="top" align="left" width="1000px">
   <strong>Основатель</strong><br>
   Главный по пиву
 </td>
 <td valign="top" align="center" width="30%">
   <a href='https://github.com/TnSiRt'>
-    <img src="https://github.com/TnSiRt.png" width="120" alt="Основатель">
+    <img src="https://github.com/TnSiRt.png" width="150" alt="Основатель">
   </a>
 </td>
 </tr>
@@ -40,7 +40,7 @@
 </td>
 <td valign="top" align="center" width="30%">
   <a href='https://github.com/VendettaQQ'>
-    <img src="https://github.com/VendettaQQ.png" width="120" alt="Визуальшик">
+    <img src="https://github.com/VendettaQQ.png" width="150" alt="Визуальшик">
   </a>
 </td>
 </tr>
@@ -53,7 +53,7 @@
 </td>
 <td valign="top" align="center" width="30%">
   <a href='https://github.com/Mercenary0407'>
-    <img src="https://github.com/Mercenary0407.png" width="120" alt="Тестировшик">
+    <img src="https://github.com/Mercenary0407.png" width="150" alt="Тестировшик">
   </a>
 </td>
 </tr>
@@ -72,7 +72,7 @@
 </td>
 <td valign="top" align="center" width="30%">
   <a href='https://github.com/DeadMakc'>
-    <img src="https://github.com/DeadMakc.png" width="120" alt="DeadMakc">
+    <img src="https://github.com/DeadMakc.png" width="150" alt="DeadMakc">
   </a>
 </td>
 </tr>
